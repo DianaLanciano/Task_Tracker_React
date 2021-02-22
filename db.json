@@ -16,43 +16,19 @@
       "id": 3,
       "text": "Sleep",
       "day": "Jan at 5:30pm",
-      "reminder": false
+      "reminder": true
     },
     {
       "id": 4,
       "text": "Meeting",
       "day": "Jan at 6:30pm",
-      "reminder": false
+      "reminder": true
     },
     {
-      "text": "Study to test",
-      "day": "Feb 2:30AM",
+      "text": "Exam",
+      "day": "Feb 5:30pm",
       "reminder": true,
       "id": 5
-    },
-    {
-      "text": "byu",
-      "day": "",
-      "reminder": false,
-      "id": 6
-    },
-    {
-      "text": "hhh",
-      "day": "hhh",
-      "reminder": false,
-      "id": 7
-    },
-    {
-      "text": "dddd",
-      "day": "ddd",
-      "reminder": false,
-      "id": 8
-    },
-    {
-      "text": "ggg",
-      "day": "gg",
-      "reminder": false,
-      "id": 9
     }
   ]
 }
